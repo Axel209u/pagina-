@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../curso/2035-logica-programacion-2-Aula1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "CodeGPT Plus Beta",
+		"liveServer.settings.multiRootWorkspaceName": "proyecto alex"
+	}
+}
